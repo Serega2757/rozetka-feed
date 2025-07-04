@@ -18,7 +18,7 @@
       <category id="5127" parentId="926">???????</category>
     </categories>
     <offers>
-      <offer id="83780" available="true">
+      <offer id="1034B" available="true">
         <price>325</price>
         <vendorCode>002</vendorCode>
         <currencyId>UAH</currencyId>
@@ -35,7 +35,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83781" available="true">
+      <offer id="1027B" available="true">
         <price>325</price>
         <vendorCode>018</vendorCode>
         <currencyId>UAH</currencyId>
@@ -70,7 +70,7 @@
         <param name="?????????????? ??????????????">? ?????????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83783" available="true">
+      <offer id="1032B" available="true">
         <price>325</price>
         <vendorCode>00000057241</vendorCode>
         <currencyId>UAH</currencyId>
@@ -105,7 +105,7 @@
         <param name="?????????????? ??????????????">? ?????????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83785" available="true">
+      <offer id="1003B" available="true">
         <price>320</price>
         <vendorCode>00000050550</vendorCode>
         <currencyId>UAH</currencyId>
@@ -122,7 +122,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83786" available="true">
+      <offer id="8092B" available="true">
         <price>330</price>
         <vendorCode>3 925</vendorCode>
         <currencyId>UAH</currencyId>
@@ -158,7 +158,7 @@
         <param name="?????????????? ??????????????">? ?????????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83788" available="true">
+      <offer id="1002B" available="true">
         <price>320</price>
         <vendorCode>3 881</vendorCode>
         <currencyId>UAH</currencyId>
@@ -210,7 +210,7 @@
         <param name="?????????????? ??????????????">? ?????????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83791" available="true">
+      <offer id="1031B" available="true">
         <price>321</price>
         <vendorCode>00000054689</vendorCode>
         <currencyId>UAH</currencyId>
@@ -245,7 +245,7 @@
         <param name="?????????????? ??????????????">? ?????????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83793" available="true">
+      <offer id="1014B" available="true">
         <price>320</price>
         <vendorCode>00000050552</vendorCode>
         <currencyId>UAH</currencyId>
@@ -262,7 +262,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83794" available="true">
+      <offer id="9000B" available="true">
         <price>330</price>
         <vendorCode>3 928</vendorCode>
         <currencyId>UAH</currencyId>
@@ -311,7 +311,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83797" available="true">
+      <offer id="1025B" available="true">
         <price>320</price>
         <vendorCode>00000050553</vendorCode>
         <currencyId>UAH</currencyId>
@@ -344,7 +344,7 @@
         <param name="?????">Citroen</param>
         <param name="???">???????</param>
       </offer>
-      <offer id="83799" available="true">
+      <offer id="9009B" available="true">
         <price>330</price>
         <vendorCode>3 929</vendorCode>
         <currencyId>UAH</currencyId>
@@ -396,7 +396,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83802" available="true">
+      <offer id="1021B" available="true">
         <price>320</price>
         <vendorCode>00000050554</vendorCode>
         <currencyId>UAH</currencyId>
@@ -413,7 +413,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83803" available="true">
+      <offer id="9007B" available="true">
         <price>330</price>
         <vendorCode>3 931</vendorCode>
         <currencyId>UAH</currencyId>
@@ -445,7 +445,7 @@
         <param name="?????">Fiat</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83805" available="true">
+      <offer id="1012B" available="true">
         <price>320</price>
         <vendorCode>3 889</vendorCode>
         <currencyId>UAH</currencyId>
@@ -462,7 +462,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83806" available="true">
+      <offer id="8099B" available="true">
         <price>330</price>
         <vendorCode>3 932</vendorCode>
         <currencyId>UAH</currencyId>
@@ -515,7 +515,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83809" available="true">
+      <offer id="1029B" available="true">
         <price>310</price>
         <vendorCode>00000057935</vendorCode>
         <currencyId>UAH</currencyId>
@@ -582,7 +582,7 @@
         <param name="?????????????? ??????????????">? ?????????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83813" available="true">
+      <offer id="1008B" available="true">
         <price>320</price>
         <vendorCode>3 891</vendorCode>
         <currencyId>UAH</currencyId>
@@ -599,7 +599,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83814" available="true">
+      <offer id="8097B" available="true">
         <price>330</price>
         <vendorCode>3 933</vendorCode>
         <currencyId>UAH</currencyId>
@@ -631,7 +631,7 @@
         <param name="?????">Honda</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83816" available="true">
+      <offer id="1009B" available="true">
         <price>320</price>
         <vendorCode>3 894</vendorCode>
         <currencyId>UAH</currencyId>
@@ -648,7 +648,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83817" available="true">
+      <offer id="8098H" available="true">
         <price>330</price>
         <vendorCode>3 934</vendorCode>
         <currencyId>UAH</currencyId>
@@ -697,7 +697,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83820" available="true">
+      <offer id="1011B" available="true">
         <price>321</price>
         <vendorCode>00000050571</vendorCode>
         <currencyId>UAH</currencyId>
@@ -714,7 +714,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83821" available="true">
+      <offer id="8099I" available="true">
         <price>330</price>
         <vendorCode>3 935</vendorCode>
         <currencyId>UAH</currencyId>
@@ -750,7 +750,7 @@
         <param name="?????????????? ??????????????">? ?????????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83823" available="true">
+      <offer id="3050B" available="true">
         <price>310</price>
         <vendorCode>010</vendorCode>
         <currencyId>UAH</currencyId>
@@ -767,7 +767,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83824" available="true">
+      <offer id="1023B" available="true">
         <price>320</price>
         <vendorCode>00000054585</vendorCode>
         <currencyId>UAH</currencyId>
@@ -802,7 +802,7 @@
         <param name="?????????????? ??????????????">? ?????????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83826" available="true">
+      <offer id="1007B" available="true">
         <price>320</price>
         <vendorCode>00000050557</vendorCode>
         <currencyId>UAH</currencyId>
@@ -819,7 +819,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83827" available="true">
+      <offer id="8096B" available="true">
         <price>330</price>
         <vendorCode>3 936</vendorCode>
         <currencyId>UAH</currencyId>
@@ -851,7 +851,7 @@
         <param name="?????">KIA</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83829" available="true">
+      <offer id="1022B" available="true">
         <price>320</price>
         <vendorCode>00000053324</vendorCode>
         <currencyId>UAH</currencyId>
@@ -868,7 +868,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83830" available="true">
+      <offer id="9008B" available="true">
         <price>330</price>
         <vendorCode>3 937</vendorCode>
         <currencyId>UAH</currencyId>
@@ -886,7 +886,7 @@
         <param name="?????????????? ??????????????">? ?????????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83831" available="true">
+      <offer id="9011B" available="true">
         <price>330</price>
         <vendorCode>3 952</vendorCode>
         <currencyId>UAH</currencyId>
@@ -918,7 +918,7 @@
         <param name="?????">Land Rover</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83833" available="true">
+      <offer id="1013B" available="true">
         <price>320</price>
         <vendorCode>3 905</vendorCode>
         <currencyId>UAH</currencyId>
@@ -984,7 +984,7 @@
         <param name="?????">Lexus</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83837" available="true">
+      <offer id="1035B" available="true">
         <price>310</price>
         <vendorCode>00000069068</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1016,7 +1016,7 @@
         <param name="?????????????? ??????????????">? ?????????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83839" available="true">
+      <offer id="1006B" available="true">
         <price>320</price>
         <vendorCode>3 908</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1033,7 +1033,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83840" available="true">
+      <offer id="8095B" available="true">
         <price>330</price>
         <vendorCode>3 939</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1065,7 +1065,7 @@
         <param name="?????">Mazda</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83842" available="true">
+      <offer id="1001B" available="true">
         <price>320</price>
         <vendorCode>3 909</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1094,7 +1094,7 @@
         <ID_Rozetka />
         <OFFERID_Rozetka />
       </offer>
-      <offer id="83844" available="true">
+      <offer id="8090B" available="true">
         <price>330</price>
         <vendorCode>3 940</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1129,7 +1129,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83846" available="true">
+      <offer id="1026B" available="true">
         <price>320</price>
         <vendorCode>00000055197</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1164,7 +1164,7 @@
         <param name="?????????????? ??????????????">? ?????????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83848" available="true">
+      <offer id="1018B" available="true">
         <price>320</price>
         <vendorCode>3 910</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1213,7 +1213,7 @@
         <param name="?????">Mitsubishi</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83851" available="true">
+      <offer id="1010B" available="true">
         <price>320</price>
         <vendorCode>3 911</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1230,7 +1230,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83852" available="true">
+      <offer id="8098B" available="true">
         <price>330</price>
         <vendorCode>3 942</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1279,7 +1279,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83855" available="true">
+      <offer id="1016B" available="true">
         <price>320</price>
         <vendorCode>3 912</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1296,7 +1296,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83856" available="true">
+      <offer id="9002B" available="true">
         <price>330</price>
         <vendorCode>3 943</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1328,7 +1328,7 @@
         <param name="?????">Opel</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83858" available="true">
+      <offer id="1024B" available="true">
         <price>320</price>
         <vendorCode>00000050545</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1345,7 +1345,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83859" available="true">
+      <offer id="9010B" available="true">
         <price>330</price>
         <vendorCode>3 945</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1377,7 +1377,7 @@
         <param name="?????">Peugeot</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83861" available="true">
+      <offer id="1020B" available="true">
         <price>320</price>
         <vendorCode>00000061937</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1394,7 +1394,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83862" available="true">
+      <offer id="9006B" available="true">
         <price>330</price>
         <vendorCode>00000066592</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1422,7 +1422,7 @@
         <param name="?????">Porsche</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83864" available="true">
+      <offer id="1017B" available="true">
         <price>320</price>
         <vendorCode>3 915</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1439,7 +1439,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83865" available="true">
+      <offer id="9003B" available="true">
         <price>330</price>
         <vendorCode>3 946</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1471,7 +1471,7 @@
         <param name="?????">Renault</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83867" available="true">
+      <offer id="1033B" available="true">
         <price>310</price>
         <vendorCode>004</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1506,7 +1506,7 @@
         <param name="?????????????? ??????????????">? ?????????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83870" available="true">
+      <offer id="1037B" available="true">
         <price>320</price>
         <vendorCode>00000053321</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1523,7 +1523,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83871" available="true">
+      <offer id="1015B" available="true">
         <price>320</price>
         <vendorCode>00000050542</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1540,7 +1540,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83872" available="true">
+      <offer id="9001B" available="true">
         <price>330</price>
         <vendorCode>3 944</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1660,7 +1660,7 @@
         <param name="?????????????? ??????????????">? ?????????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83879" available="true">
+      <offer id="1040B" available="true">
         <price>320</price>
         <vendorCode>3 916</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1677,7 +1677,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83880" available="true">
+      <offer id="1030B" available="true">
         <price>320</price>
         <vendorCode>3 922</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1747,7 +1747,7 @@
         <param name="?????????????? ??????????????">? ?????????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83884" available="true">
+      <offer id="1005B" available="true">
         <price>320</price>
         <vendorCode>3 917</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1781,7 +1781,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83886" available="true">
+      <offer id="8094B" available="true">
         <price>330</price>
         <vendorCode>3 948</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1851,7 +1851,7 @@
         <param name="?????????????? ??????????????">? ?????????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83890" available="true">
+      <offer id="1019B" available="true">
         <price>320</price>
         <vendorCode>00000053318</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1868,7 +1868,7 @@
         <param name="???">???????</param>
         <param name="????????">14 ????</param>
       </offer>
-      <offer id="83891" available="true">
+      <offer id="9005B" available="true">
         <price>330</price>
         <vendorCode>3 950</vendorCode>
         <currencyId>UAH</currencyId>
