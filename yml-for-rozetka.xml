@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 
-<yml_catalog date="2025-07-24 04:03:41">
+<yml_catalog date="2025-07-24 05:03:23">
   <shop>
     <name>LevelStore</name>
     <company>LevelStore</company>
@@ -1504,6 +1504,20 @@
         <param name="Марка">Scania</param>
         <param name="Тип">Брелоки</param>
         <param name="Дополнительные характеристики">з карабіном</param>
+        <param name="Гарантия">14 днів</param>
+      </offer>
+      <offer id="83869" available="true">
+        <price>0</price>
+        <vendorCode>00000070017</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/d9/07/d9071d6cb2fa529df4eacf896c20d963.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Брелок на ключі Джгут Seat з Карабіном (пакетвикрутка)]]></name>
+        <description><![CDATA[<p>Брелок на ключі Джгут</p><div><p>Особливості:</p><p>Матеріал: Високоякісна екошкіра та нержавіюча сталь.<br />Дизайн: Елегантний плетений дизайн, який додає унікальності вашим ключам.<br />Розмір: 110*20мм<br />Кріплення: Надійне металеве кільце для ключів, яке запобігає їх втраті.</p><p><br />Переваги:<br />Стильний аксесуар: Додає шарму та індивідуальності вашим ключам або сумці.<br />Міцність та довговічність: Виготовлений з високоякісних матеріалів, що гарантує тривалий термін служби.<br />Практичність: Легкий та зручний у використанні, з можливістю швидкого кріплення ключів.<br />Ідеальний подарунок: Відмінний вибір для подарунку друзям, родичам або колегам.</p><p>Догляд та використання:<br />-Легко очищається вологою серветкою або м'якою тканиною.<br />-Стійкий до зносу та впливу зовнішніх факторів.</p></div>]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Марка авто">Seat</param>
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="1037B" available="true">
