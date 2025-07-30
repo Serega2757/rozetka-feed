@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 
-<yml_catalog date="2025-07-31 01:03:26">
+<yml_catalog date="2025-07-31 02:04:06">
   <shop>
     <name>LevelStore</name>
     <company>LevelStore</company>
@@ -2589,8 +2589,9 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="9001B" available="true">
-        <price>330</price>
-        <vendorCode>3 944</vendorCode>
+        <price>294</price>
+        <external_id>00000055562</external_id>
+        <vendorCode>00000055562</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
         <picture>https://lsshop.1b.app/media/thumb/bd/99/bd99c651b65a9be17e1a9a215ccafbf2.ipthumb400xprop.jpg</picture>
@@ -2605,6 +2606,7 @@
         <param name="Тип">Брелоки</param>
         <param name="Дополнительные характеристики">з карабіном</param>
         <param name="Гарантия">14 днів</param>
+        <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000066137" available="true">
         <price>294</price>
