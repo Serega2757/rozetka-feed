@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 
-<yml_catalog date="2025-07-31 17:02:58">
+<yml_catalog date="2025-07-31 18:03:06">
   <shop>
     <name>LevelStore</name>
     <company>LevelStore</company>
@@ -50,7 +50,7 @@
         <vendorCode>00000003669</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/d9/4e/d94eedb589679d91de21fa962cff536a.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Брелок для ключів Audi метал/хром]]></name>
         <description />
@@ -78,7 +78,7 @@
         <vendorCode>00000003661</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/cc/04/cc046348f660f837d429866fc52fed9d.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Брелок для ключів BMW метал/хром]]></name>
         <description />
@@ -245,7 +245,7 @@
         <vendorCode>00000001190</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/ba/53/ba538959560d89904b899f30930ecaac.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Брелок для ключів Mazda метал/хром]]></name>
         <description />
@@ -371,7 +371,7 @@
         <vendorCode>00000001191</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/7c/a0/7ca093b0a3110a7e5cb365e20567bde0.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Брелок для ключів Toyota метал/хром]]></name>
         <description />
