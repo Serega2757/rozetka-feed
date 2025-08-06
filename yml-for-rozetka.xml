@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 
-<yml_catalog date="2025-08-06 13:02:53">
+<yml_catalog date="2025-08-06 14:02:59">
   <shop>
     <name>LevelStore</name>
     <company>LevelStore</company>
@@ -2683,8 +2683,9 @@
         <param name="Гарантия">14 днів</param>
         <param name="Страна производитель">Китай</param>
       </offer>
-      <offer id="83877" available="true">
-        <price>310</price>
+      <offer id="00000061939" available="true">
+        <price>283</price>
+        <external_id>00000061939</external_id>
         <vendorCode>00000061939</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
@@ -2699,6 +2700,7 @@
         <param name="Марка">SsangYong</param>
         <param name="Тип">Брелоки</param>
         <param name="Гарантия">14 днів</param>
+        <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="83878" available="true">
         <price>330</price>
