@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 
-<yml_catalog date="2025-08-17 16:02:45">
+<yml_catalog date="2025-08-17 17:02:47">
   <shop>
     <name>LevelStore</name>
     <company>LevelStore</company>
@@ -7324,19 +7324,6 @@
         <OFFERID_Rozetka />
         <param name="Материал">Шкіраметал</param>
         <param name="Гарантия">14 днів</param>
-      </offer>
-      <offer id="88941" available="true">
-        <price>0</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>5127</categoryId>
-        <picture>https://lsshop.1b.app/media/thumb/97/78/9778da60e059c146ef1d582ef86f6744.ipthumb400xprop.jpg</picture>
-        <picture>https://lsshop.1b.app/media/thumb/85/fa/85fa66f371052f55e0bf3864bef98a60.ipthumb400x400crop.jpg</picture>
-        <picture>https://lsshop.1b.app/media/thumb/be/13/be13dba0da3eb1ce1cac33334ca0d9ee.ipthumb400x400crop.jpg</picture>
-        <delivery>true</delivery>
-        <name><![CDATA[Чохол для ключів з карабіном (Шкіряний) без емблем]]></name>
-        <description><![CDATA[<p><strong>Характеристики</strong>:</p> <p>Розмір: 90х50х25 мм (З карабіном 140х50х25мм)</p> <p>Матеріал: Екошкіра</p> <p>Кільце для ключа всередині.</p> <p>---</p> <p>Одним із способів зберегти зовнішній вигляд авто ключа цілим - ключниці та чохли для ключів із якісної шкіри. Надійність чохла перевірена часом та гарантується десятками поколінь користувачів.</p> <p>Пам'ятайте, що надати вашому іміджу додаткову елегантність та неперевершений вишуканий стиль під силу навіть таким дрібницям.</p>]]></description>
-        <ID_Rozetka />
-        <OFFERID_Rozetka />
       </offer>
       <offer id="00000063962" available="true">
         <price>330</price>
