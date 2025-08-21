@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 
-<yml_catalog date="2025-08-21 03:04:09">
+<yml_catalog date="2025-08-21 04:04:04">
   <shop>
     <name>LevelStore</name>
     <company>LevelStore</company>
@@ -45,7 +45,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000003669" available="true">
-        <price>242</price>
+        <price>241</price>
         <external_id>00000003669</external_id>
         <vendorCode>00000003669</vendorCode>
         <currencyId>UAH</currencyId>
@@ -73,7 +73,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000003661" available="true">
-        <price>239</price>
+        <price>241</price>
         <external_id>00000003661</external_id>
         <vendorCode>00000003661</vendorCode>
         <currencyId>UAH</currencyId>
@@ -254,7 +254,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000024145" available="true">
-        <price>242</price>
+        <price>241</price>
         <external_id>00000024145</external_id>
         <vendorCode>00000024145</vendorCode>
         <currencyId>UAH</currencyId>
@@ -338,7 +338,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000022694" available="true">
-        <price>242</price>
+        <price>241</price>
         <external_id>00000022694</external_id>
         <vendorCode>00000022694</vendorCode>
         <currencyId>UAH</currencyId>
@@ -380,7 +380,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000022002" available="true">
-        <price>239</price>
+        <price>241</price>
         <external_id>00000022002</external_id>
         <vendorCode>00000022002</vendorCode>
         <currencyId>UAH</currencyId>
