@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 
-<yml_catalog date="2025-08-23 16:02:52">
+<yml_catalog date="2025-08-23 17:02:54">
   <shop>
     <name>LevelStore</name>
     <company>LevelStore</company>
@@ -86,6 +86,48 @@
         <OFFERID_Rozetka />
         <param name="Страна производитель">Китай</param>
       </offer>
+      <offer id="00000024652" available="true">
+        <price>68</price>
+        <external_id>00000024652</external_id>
+        <vendorCode>00000024652</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/b6/5e/b65e696a46968cb93c2d46a951e8a265.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Брелок для ключів Chevrolet метал/хром]]></name>
+        <description />
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+      </offer>
+      <offer id="00000062010" available="true">
+        <price>68</price>
+        <external_id>00000062010</external_id>
+        <vendorCode>00000062010</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/24/91/2491722ca9945085d18256c919d541eb.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Брелок для ключів Dacia метал/хром]]></name>
+        <description />
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+      </offer>
+      <offer id="00000023302" available="true">
+        <price>68</price>
+        <external_id>00000023302</external_id>
+        <vendorCode>00000023302</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/94/db/94dba03e22c092312ae4b881b9697259.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Брелок для ключів Daewoo метал/хром]]></name>
+        <description />
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+      </offer>
       <offer id="00000050944" available="true">
         <price>275</price>
         <external_id>00000050944</external_id>
@@ -123,6 +165,20 @@
         <picture>https://lsshop.1b.app/media/thumb/e1/14/e11420d2e1703ec3e6b326a6280135fa.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Брелок для ключів Fiat метал/синій (на ланцюжку)]]></name>
+        <description />
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+      </offer>
+      <offer id="00000023486" available="true">
+        <price>68</price>
+        <external_id>00000023486</external_id>
+        <vendorCode>00000023486</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/18/e8/18e8460f8fa89e8a73a8520d6e2972f4.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Брелок для ключів Fiat метал/хром]]></name>
         <description />
         <ID_Rozetka />
         <OFFERID_Rozetka />
@@ -234,6 +290,20 @@
         <picture>https://lsshop.1b.app/media/thumb/e0/e7/e0e7a522a8efe59f99c6eb1c34bb5db7.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Брелок для ключів LADA метал/чорний у коробці]]></name>
+        <description />
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+      </offer>
+      <offer id="00000024557" available="true">
+        <price>68</price>
+        <external_id>00000024557</external_id>
+        <vendorCode>00000024557</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/ef/a0/efa04173786e48f5253a458d91a50b54.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Брелок для ключів Lada-Samara метал/хром]]></name>
         <description />
         <ID_Rozetka />
         <OFFERID_Rozetka />
@@ -351,6 +421,20 @@
         <OFFERID_Rozetka />
         <param name="Страна производитель">Китай</param>
       </offer>
+      <offer id="00000057992" available="true">
+        <price>68</price>
+        <external_id>00000057992</external_id>
+        <vendorCode>00000057992</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/9d/55/9d55b58e990ea8cb42ca658a0f79e69e.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Брелок для ключів Seat метал/хром]]></name>
+        <description />
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+      </offer>
       <offer id="00000023027" available="true">
         <price>242</price>
         <external_id>00000023027</external_id>
@@ -360,6 +444,20 @@
         <picture>https://lsshop.1b.app/media/thumb/45/7a/457a78f5d5d1e2a11647f065df1e2488.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Брелок для ключів Skoda метал/хром]]></name>
+        <description />
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+      </offer>
+      <offer id="00000054602" available="true">
+        <price>68</price>
+        <external_id>00000054602</external_id>
+        <vendorCode>00000054602</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/34/11/341127f8a839538a4cda816bc60ca3ae.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Брелок для ключів Suzuki метал/хром]]></name>
         <description />
         <ID_Rozetka />
         <OFFERID_Rozetka />
@@ -541,6 +639,20 @@
         <picture>https://lsshop.1b.app/media/thumb/81/97/81975d43e1766341eb36d0a52348d6c2.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Брелок для ключів шкіра Hundai]]></name>
+        <description />
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+      </offer>
+      <offer id="00000024835" available="true">
+        <price>97</price>
+        <external_id>00000024835</external_id>
+        <vendorCode>00000024835</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/e5/bd/e5bdb65308eaf531badc0e8d28a4da30.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Брелок для ключів шкіра KIA]]></name>
         <description />
         <ID_Rozetka />
         <OFFERID_Rozetka />
@@ -6335,6 +6447,19 @@
         <param name="Страна производитель">Китай</param>
         <param name="Гарантия">14 днів</param>
       </offer>
+      <offer id="00000070440" available="true">
+        <price>142</price>
+        <external_id>00000070440</external_id>
+        <vendorCode>00000070440</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/c3/06/c306f40fa03dcc3c8cbf1c5aab0e7301.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Заглушка ременя безпеки метал Volkswagen (1шт) цинк.сплав шкіра (тип 2) ГРАФІТ]]></name>
+        <description />
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+      </offer>
       <offer id="00000051946" available="true">
         <price>368</price>
         <external_id>00000051946</external_id>
@@ -6631,6 +6756,19 @@
         <ID_Rozetka />
         <OFFERID_Rozetka />
       </offer>
+      <offer id="00000071017" available="true">
+        <price>25</price>
+        <external_id>00000071017</external_id>
+        <vendorCode>00000071017</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/cd/bf/cdbf98f0af09726f643ef75b6e29f9c1.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Заглушка ременя безпеки нейлон Byd (2шт/уп)]]></name>
+        <description />
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+      </offer>
       <offer id="00000070853" available="true">
         <price>215</price>
         <external_id>00000070853</external_id>
@@ -6731,6 +6869,19 @@
         <picture>https://lsshop.1b.app/media/thumb/7e/1b/7e1bfc4822be5f73bcaa605e15eeaa25.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Заглушка ременя безпеки нейлон Geely тип 3 (2шт/уп)]]></name>
+        <description />
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+      </offer>
+      <offer id="00000071014" available="true">
+        <price>25</price>
+        <external_id>00000071014</external_id>
+        <vendorCode>00000071014</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/02/e4/02e45162f15850e776ac6352e3b59727.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Заглушка ременя безпеки нейлон Honda (2шт/уп)]]></name>
         <description />
         <ID_Rozetka />
         <OFFERID_Rozetka />
@@ -6969,6 +7120,32 @@
         <ID_Rozetka />
         <OFFERID_Rozetka />
       </offer>
+      <offer id="00000071016" available="true">
+        <price>25</price>
+        <external_id>00000071016</external_id>
+        <vendorCode>00000071016</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/95/f0/95f08a3063af56dbe1b14bce29e8ab87.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Заглушка ременя безпеки нейлон Subaru (2шт/уп)]]></name>
+        <description />
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+      </offer>
+      <offer id="00000071015" available="true">
+        <price>25</price>
+        <external_id>00000071015</external_id>
+        <vendorCode>00000071015</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/cf/05/cf05999a3db269ada993eb2a1cd0c038.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Заглушка ременя безпеки нейлон Suzuki (2шт/уп)]]></name>
+        <description />
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+      </offer>
       <offer id="00000070860" available="true">
         <price>215</price>
         <external_id>00000070860</external_id>
@@ -6991,6 +7168,19 @@
         <picture>https://lsshop.1b.app/media/thumb/21/aa/21aa4843dbf70574492545c8082a226b.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Заглушка ременя безпеки нейлон Volkswagen тип 3 (2шт/уп)]]></name>
+        <description />
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+      </offer>
+      <offer id="00000071018" available="true">
+        <price>25</price>
+        <external_id>00000071018</external_id>
+        <vendorCode>00000071018</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/e8/f6/e8f63b2624595b9d7d68f73d28a76b67.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Заглушка ременя безпеки нейлон Volvo (2шт/уп)]]></name>
         <description />
         <ID_Rozetka />
         <OFFERID_Rozetka />
@@ -7324,19 +7514,6 @@
         <OFFERID_Rozetka />
         <param name="Материал">Шкіраметал</param>
         <param name="Гарантия">14 днів</param>
-      </offer>
-      <offer id="88941" available="true">
-        <price>0</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>5127</categoryId>
-        <picture>https://lsshop.1b.app/media/thumb/97/78/9778da60e059c146ef1d582ef86f6744.ipthumb400xprop.jpg</picture>
-        <picture>https://lsshop.1b.app/media/thumb/85/fa/85fa66f371052f55e0bf3864bef98a60.ipthumb400x400crop.jpg</picture>
-        <picture>https://lsshop.1b.app/media/thumb/be/13/be13dba0da3eb1ce1cac33334ca0d9ee.ipthumb400x400crop.jpg</picture>
-        <delivery>true</delivery>
-        <name><![CDATA[Чохол для ключів з карабіном (Шкіряний) без емблем]]></name>
-        <description><![CDATA[<p><strong>Характеристики</strong>:</p> <p>Розмір: 90х50х25 мм (З карабіном 140х50х25мм)</p> <p>Матеріал: Екошкіра</p> <p>Кільце для ключа всередині.</p> <p>---</p> <p>Одним із способів зберегти зовнішній вигляд авто ключа цілим - ключниці та чохли для ключів із якісної шкіри. Надійність чохла перевірена часом та гарантується десятками поколінь користувачів.</p> <p>Пам'ятайте, що надати вашому іміджу додаткову елегантність та неперевершений вишуканий стиль під силу навіть таким дрібницям.</p>]]></description>
-        <ID_Rozetka />
-        <OFFERID_Rozetka />
       </offer>
       <offer id="00000063962" available="true">
         <price>330</price>
@@ -10440,6 +10617,19 @@
         <OFFERID_Rozetka />
         <param name="Страна производитель">Китай</param>
       </offer>
+      <offer id="00000067555" available="true">
+        <price>92</price>
+        <external_id>00000067555</external_id>
+        <vendorCode>00000067555</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/4d/a7/4da7561c17686590a69721a21db9dcb6.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Шнурок з карабіном Ford]]></name>
+        <description />
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+      </offer>
       <offer id="00000065189" available="true">
         <price>252</price>
         <external_id>00000065189</external_id>
@@ -10496,6 +10686,20 @@
         <OFFERID_Rozetka />
         <param name="Страна производитель">Китай</param>
       </offer>
+      <offer id="00000065193" available="true">
+        <price>92</price>
+        <external_id>00000065193</external_id>
+        <vendorCode>00000065193</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/7b/7b/7b7b0f76d9a32b036ca295ff15a5ad88.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Шнурок з карабіном Scania]]></name>
+        <description />
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+      </offer>
       <offer id="00000065194" available="true">
         <price>252</price>
         <external_id>00000065194</external_id>
@@ -10509,6 +10713,19 @@
         <ID_Rozetka />
         <OFFERID_Rozetka />
         <param name="Страна производитель">Китай</param>
+      </offer>
+      <offer id="00000067114" available="true">
+        <price>92</price>
+        <external_id>00000067114</external_id>
+        <vendorCode>00000067114</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture>https://lsshop.1b.app/media/thumb/84/1c/841c9e612ade354a85f557bd8fb5df1d.ipthumb400xprop.jpg</picture>
+        <delivery>true</delivery>
+        <name><![CDATA[Шнурок з карабіном Volkswagen]]></name>
+        <description />
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
       </offer>
       <offer id="00000065195" available="true">
         <price>252</price>
