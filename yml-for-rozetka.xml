@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 
-<yml_catalog date="2025-08-23 17:02:54">
+<yml_catalog date="2025-08-23 18:02:53">
   <shop>
     <name>LevelStore</name>
     <company>LevelStore</company>
@@ -87,7 +87,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000024652" available="true">
-        <price>68</price>
+        <price>241</price>
         <external_id>00000024652</external_id>
         <vendorCode>00000024652</vendorCode>
         <currencyId>UAH</currencyId>
@@ -101,7 +101,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000062010" available="true">
-        <price>68</price>
+        <price>241</price>
         <external_id>00000062010</external_id>
         <vendorCode>00000062010</vendorCode>
         <currencyId>UAH</currencyId>
@@ -115,7 +115,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000023302" available="true">
-        <price>68</price>
+        <price>241</price>
         <external_id>00000023302</external_id>
         <vendorCode>00000023302</vendorCode>
         <currencyId>UAH</currencyId>
@@ -171,7 +171,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000023486" available="true">
-        <price>68</price>
+        <price>241</price>
         <external_id>00000023486</external_id>
         <vendorCode>00000023486</vendorCode>
         <currencyId>UAH</currencyId>
@@ -296,7 +296,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000024557" available="true">
-        <price>68</price>
+        <price>241</price>
         <external_id>00000024557</external_id>
         <vendorCode>00000024557</vendorCode>
         <currencyId>UAH</currencyId>
@@ -422,7 +422,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000057992" available="true">
-        <price>68</price>
+        <price>241</price>
         <external_id>00000057992</external_id>
         <vendorCode>00000057992</vendorCode>
         <currencyId>UAH</currencyId>
@@ -450,7 +450,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000054602" available="true">
-        <price>68</price>
+        <price>241</price>
         <external_id>00000054602</external_id>
         <vendorCode>00000054602</vendorCode>
         <currencyId>UAH</currencyId>
@@ -645,7 +645,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000024835" available="true">
-        <price>97</price>
+        <price>259</price>
         <external_id>00000024835</external_id>
         <vendorCode>00000024835</vendorCode>
         <currencyId>UAH</currencyId>
@@ -6448,7 +6448,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000070440" available="true">
-        <price>142</price>
+        <price>286</price>
         <external_id>00000070440</external_id>
         <vendorCode>00000070440</vendorCode>
         <currencyId>UAH</currencyId>
@@ -6757,7 +6757,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071017" available="true">
-        <price>25</price>
+        <price>215</price>
         <external_id>00000071017</external_id>
         <vendorCode>00000071017</vendorCode>
         <currencyId>UAH</currencyId>
@@ -6874,7 +6874,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071014" available="true">
-        <price>25</price>
+        <price>215</price>
         <external_id>00000071014</external_id>
         <vendorCode>00000071014</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7121,7 +7121,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071016" available="true">
-        <price>25</price>
+        <price>215</price>
         <external_id>00000071016</external_id>
         <vendorCode>00000071016</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7134,7 +7134,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071015" available="true">
-        <price>25</price>
+        <price>215</price>
         <external_id>00000071015</external_id>
         <vendorCode>00000071015</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7173,7 +7173,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071018" available="true">
-        <price>25</price>
+        <price>215</price>
         <external_id>00000071018</external_id>
         <vendorCode>00000071018</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10618,7 +10618,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000067555" available="true">
-        <price>92</price>
+        <price>256</price>
         <external_id>00000067555</external_id>
         <vendorCode>00000067555</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10687,7 +10687,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000065193" available="true">
-        <price>92</price>
+        <price>256</price>
         <external_id>00000065193</external_id>
         <vendorCode>00000065193</vendorCode>
         <currencyId>UAH</currencyId>
