@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 
-<yml_catalog date="2025-09-04 15:04:39">
+<yml_catalog date="2025-09-04 16:04:50">
   <shop>
     <name>LevelStore</name>
     <company>LevelStore</company>
@@ -171,7 +171,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000023486" available="true">
-        <price>241</price>
+        <price>106</price>
         <external_id>00000023486</external_id>
         <vendorCode>00000023486</vendorCode>
         <currencyId>UAH</currencyId>
