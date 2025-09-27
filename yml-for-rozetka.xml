@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 
-<yml_catalog date="2025-09-27 03:05:07">
+<yml_catalog date="2025-09-27 04:04:36">
   <shop>
     <name>LevelStore</name>
     <company>LevelStore</company>
@@ -71,7 +71,7 @@
         <vendorCode>00000069069</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/13/38/1338e01a5308156df91822c61382e578.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Чохол для ключів з карабіном Acura (Шкіра)]]></name>
         <description><![CDATA[Характеристики: Розмір: 90х50х25 мм (З карабіном 140х50х25мм) Матеріал: Шкіра Кільце для ключа всередині. --- Одним із способів зберегти зовнішній вигляд авто ключа цілим - ключниці та чохли для ключів із якісної шкіри. Надійність чохла перевірена часом та гарантується десятками поколінь користувачів. Пам&apos;ятайте, що надати вашому іміджу додаткову елегантність та неперевершений вишуканий стиль під силу навіть таким дрібницям.]]></description>
