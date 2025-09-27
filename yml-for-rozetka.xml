@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 
-<yml_catalog date="2025-09-27 01:04:34">
+<yml_catalog date="2025-09-27 03:05:07">
   <shop>
     <name>LevelStore</name>
     <company>LevelStore</company>
@@ -63,6 +63,23 @@
         <ID_Rozetka />
         <OFFERID_Rozetka />
         <param name="Страна производитель">Китай</param>
+        <param name="Гарантия">14 днів</param>
+      </offer>
+      <offer id="00000069069" available="true">
+        <price>337</price>
+        <external_id>00000069069</external_id>
+        <vendorCode>00000069069</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Чохол для ключів з карабіном Acura (Шкіра)]]></name>
+        <description><![CDATA[Характеристики: Розмір: 90х50х25 мм (З карабіном 140х50х25мм) Матеріал: Шкіра Кільце для ключа всередині. --- Одним із способів зберегти зовнішній вигляд авто ключа цілим - ключниці та чохли для ключів із якісної шкіри. Надійність чохла перевірена часом та гарантується десятками поколінь користувачів. Пам&apos;ятайте, що надати вашому іміджу додаткову елегантність та неперевершений вишуканий стиль під силу навіть таким дрібницям.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+        <param name="Материал">Шкіраметал</param>
+        <param name="Марка">Acura</param>
         <param name="Гарантия">14 днів</param>
       </offer>
     </offers>
