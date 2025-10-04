@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 
-<yml_catalog date="2025-10-04 14:04:47">
+<yml_catalog date="2025-10-04 15:05:04">
   <shop>
     <name>LevelStore</name>
     <company>LevelStore</company>
@@ -7454,6 +7454,36 @@
         <ID_Rozetka />
         <OFFERID_Rozetka />
       </offer>
+      <offer id="00000058826" available="true">
+        <price>592</price>
+        <external_id>00000058826</external_id>
+        <vendorCode>00000058826</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір AUDI 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+        <param name="Марка авто">Audi</param>
+      </offer>
+      <offer id="00000058827" available="true">
+        <price>592</price>
+        <external_id>00000058827</external_id>
+        <vendorCode>00000058827</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір BMW 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+        <param name="Марка авто">BMW</param>
+      </offer>
       <offer id="00000063273" available="true">
         <price>592</price>
         <external_id>00000063273</external_id>
@@ -7467,6 +7497,21 @@
         <ID_Rozetka />
         <OFFERID_Rozetka />
       </offer>
+      <offer id="00000058840" available="true">
+        <price>592</price>
+        <external_id>00000058840</external_id>
+        <vendorCode>00000058840</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір CHEVROLET 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+        <param name="Марка авто">Chevrolet</param>
+      </offer>
       <offer id="00000059062" available="true">
         <price>592</price>
         <external_id>00000059062</external_id>
@@ -7479,6 +7524,21 @@
         <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
         <ID_Rozetka />
         <OFFERID_Rozetka />
+      </offer>
+      <offer id="00000058839" available="true">
+        <price>592</price>
+        <external_id>00000058839</external_id>
+        <vendorCode>00000058839</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір FORD 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+        <param name="Марка авто">Ford</param>
       </offer>
       <offer id="00000058837" available="true">
         <price>592</price>
@@ -7495,6 +7555,96 @@
         <param name="Страна производитель">Китай</param>
         <param name="Марка авто">Geely</param>
       </offer>
+      <offer id="00000058832" available="true">
+        <price>592</price>
+        <external_id>00000058832</external_id>
+        <vendorCode>00000058832</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір HONDA 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+        <param name="Марка авто">Honda</param>
+      </offer>
+      <offer id="00000058836" available="true">
+        <price>592</price>
+        <external_id>00000058836</external_id>
+        <vendorCode>00000058836</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір HYUNDAI 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+        <param name="Марка авто">Hyundai</param>
+      </offer>
+      <offer id="00000058834" available="true">
+        <price>592</price>
+        <external_id>00000058834</external_id>
+        <vendorCode>00000058834</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір KIA 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+        <param name="Марка авто">Kia</param>
+      </offer>
+      <offer id="00000058830" available="true">
+        <price>592</price>
+        <external_id>00000058830</external_id>
+        <vendorCode>00000058830</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір LEXUS 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+        <param name="Марка авто">Lexus</param>
+      </offer>
+      <offer id="00000058833" available="true">
+        <price>592</price>
+        <external_id>00000058833</external_id>
+        <vendorCode>00000058833</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір MAZDA 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+        <param name="Марка авто">Mazda</param>
+      </offer>
+      <offer id="00000058828" available="true">
+        <price>592</price>
+        <external_id>00000058828</external_id>
+        <vendorCode>00000058828</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір MERCEDES 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+        <param name="Марка авто">Mercedes</param>
+      </offer>
       <offer id="00000063276" available="true">
         <price>592</price>
         <external_id>00000063276</external_id>
@@ -7507,6 +7657,157 @@
         <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
         <ID_Rozetka />
         <OFFERID_Rozetka />
+      </offer>
+      <offer id="00000059059" available="true">
+        <price>592</price>
+        <external_id>00000059059</external_id>
+        <vendorCode>00000059059</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір MITSUBISHI 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+      </offer>
+      <offer id="00000058829" available="true">
+        <price>592</price>
+        <external_id>00000058829</external_id>
+        <vendorCode>00000058829</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір NISSAN 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+        <param name="Марка авто">Nissan</param>
+      </offer>
+      <offer id="00000059060" available="true">
+        <price>592</price>
+        <external_id>00000059060</external_id>
+        <vendorCode>00000059060</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір OPEL 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+      </offer>
+      <offer id="00000063277" available="true">
+        <price>592</price>
+        <external_id>00000063277</external_id>
+        <vendorCode>00000063277</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір PEGEOUT 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+      </offer>
+      <offer id="00000063278" available="true">
+        <price>592</price>
+        <external_id>00000063278</external_id>
+        <vendorCode>00000063278</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір PORSCHE 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+      </offer>
+      <offer id="00000059061" available="true">
+        <price>592</price>
+        <external_id>00000059061</external_id>
+        <vendorCode>00000059061</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір RENAULT 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+      </offer>
+      <offer id="00000059170" available="true">
+        <price>592</price>
+        <external_id>00000059170</external_id>
+        <vendorCode>00000059170</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір SEAT 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+      </offer>
+      <offer id="00000058835" available="true">
+        <price>592</price>
+        <external_id>00000058835</external_id>
+        <vendorCode>00000058835</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір SKODA 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+        <param name="Марка авто">Skoda</param>
+      </offer>
+      <offer id="00000063279" available="true">
+        <price>592</price>
+        <external_id>00000063279</external_id>
+        <vendorCode>00000063279</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір SUBARU 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+      </offer>
+      <offer id="00000058831" available="true">
+        <price>592</price>
+        <external_id>00000058831</external_id>
+        <vendorCode>00000058831</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір TOYOTA 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+        <param name="Марка авто">Toyota, Volkswagen</param>
+      </offer>
+      <offer id="00000058838" available="true">
+        <price>592</price>
+        <external_id>00000058838</external_id>
+        <vendorCode>00000058838</vendorCode>
+        <currencyId>UAH</currencyId>
+        <categoryId>5127</categoryId>
+        <picture />
+        <delivery>true</delivery>
+        <name><![CDATA[Подарунковий набір VOLKSWAGEN 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
+        <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
+        <ID_Rozetka />
+        <OFFERID_Rozetka />
+        <param name="Страна производитель">Китай</param>
+        <param name="Марка авто">Volkswagen</param>
       </offer>
       <offer id="88938" available="true">
         <price>420</price>
