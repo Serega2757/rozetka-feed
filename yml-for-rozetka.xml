@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 
-<yml_catalog date="2025-10-24 04:05:26">
+<yml_catalog date="2025-10-24 12:05:20">
   <shop>
     <name>LevelStore</name>
     <company>LevelStore</company>
@@ -7475,7 +7475,7 @@
         <vendorCode>00000071264</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/e3/17/e31787dbd1cca0664c391914b2622e28.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір AUDI 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7503,7 +7503,7 @@
         <vendorCode>00000071265</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/92/37/92377ad67f54a7e73690560fbef9aa78.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір BMW 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7544,7 +7544,7 @@
         <vendorCode>00000071266</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/5a/13/5a13820eaa36fadef7c62e61be45d4c7.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір CHEVROLET 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7557,7 +7557,7 @@
         <vendorCode>00000071267</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/61/0b/610b04e5b8afae5e16615188adb515d6.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір CITROEN 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7583,7 +7583,7 @@
         <vendorCode>00000071268</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/5d/63/5d63fcafb2708d8027d0e651a37e8406.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір FIAT 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7611,7 +7611,7 @@
         <vendorCode>00000071269</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/99/f7/99f7f3cdea931aff2a8789fa60cb15fb.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір FORD 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7654,7 +7654,7 @@
         <vendorCode>00000071270</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/a0/ef/a0ef2c69e3baac3bbcf44f687f27f58d.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір HONDA 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7682,7 +7682,7 @@
         <vendorCode>00000071271</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/55/a3/55a3f03f01ade3f076725ba9f28eee10.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір HYUNDAI 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7695,7 +7695,7 @@
         <vendorCode>00000071272</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/39/1a/391a6b17e64c523d8b3e2d6135f0a07a.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір JEEP 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7723,7 +7723,7 @@
         <vendorCode>00000063275</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/5e/00/5e00eb05de6e876e7bac1c68cc3a9f57.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір LADA 2в1 (фіксатор ременів, плетений брелок) 2 хром]]></name>
         <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
@@ -7736,7 +7736,7 @@
         <vendorCode>00000071273</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/48/81/4881d6f90b2e40c8450303a2c64063b1.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір LADA 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7749,7 +7749,7 @@
         <vendorCode>00000071274</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/d4/eb/d4eb2a77c555d048d3e0cbd03702f808.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір LAND ROVER 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7777,7 +7777,7 @@
         <vendorCode>00000071275</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/70/bc/70bc5f16b93defefedcb870484cb6c7e.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір LEXUS 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7790,7 +7790,7 @@
         <vendorCode>00000071276</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/db/8a/db8a65e06317182317c7065827c95367.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір LINCOLN 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7818,7 +7818,7 @@
         <vendorCode>00000071277</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/46/1e/461e964c803bcf547d8ead0eb1777527.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір MAZDA 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7846,7 +7846,7 @@
         <vendorCode>00000071278</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/47/7e/477e14092406216df5ecb5e7c9610d76.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір MERCEDES 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7885,7 +7885,7 @@
         <vendorCode>00000071279</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/d1/11/d111770968a039439abf308eebeaf112.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір MITSUBISHI 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7913,7 +7913,7 @@
         <vendorCode>00000071280</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/2f/34/2f340ad8f6e32c370ca029f437decf75.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір NISSAN 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7939,7 +7939,7 @@
         <vendorCode>00000071281</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/f7/9b/f79b84708ab5852fa91766fcb4a04875.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір OPEL 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7952,7 +7952,7 @@
         <vendorCode>00000063277</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/68/8d/688d9bda7482653df17d3f6c4d0bdcd3.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір PEGEOUT 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
         <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
@@ -7965,7 +7965,7 @@
         <vendorCode>00000071282</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/b6/c9/b6c9f27b8298dbc41260d1927452b861.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір PEUGEOT 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -7991,7 +7991,7 @@
         <vendorCode>00000071283</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/a4/74/a47422247d92b015890a374be30ff634.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір PORSCHE 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -8017,7 +8017,7 @@
         <vendorCode>00000071284</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/33/46/33464d5387a5f09b0404ed4abdf9216c.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір RENAULT 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -8058,7 +8058,7 @@
         <vendorCode>00000071285</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/21/7e/217ee038d340fa038b3a58a52c7ec598.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір SKODA 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -8084,7 +8084,7 @@
         <vendorCode>00000071286</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/44/e1/44e140bdb8a5c1d60768cbbfd4581627.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір SUBARU 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -8097,7 +8097,7 @@
         <vendorCode>00000071287</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/a9/d5/a9d50126f5343816f3c78cfec74d903c.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір SUZUKI 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -8126,7 +8126,7 @@
         <vendorCode>00000071288</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/3a/e3/3ae383e730f26ddd3ebfb41ac6febc03.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір TOYOTA 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
@@ -8154,7 +8154,7 @@
         <vendorCode>00000071289</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>5127</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/77/bb/77bb57d42b9a82ba785d61e477271388.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір VOLKSWAGEN 2в1 (фіксатор ременів, шкіряний брелок) 2 графіт]]></name>
         <description />
