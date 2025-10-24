@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 
-<yml_catalog date="2025-10-24 12:05:20">
+<yml_catalog date="2025-10-24 13:05:05">
   <shop>
     <name>LevelStore</name>
     <company>LevelStore</company>
@@ -958,7 +958,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1003B" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000050550</external_id>
         <vendorCode>00000050550</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1017,7 +1017,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1002B" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000050547</external_id>
         <vendorCode>00000050547</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1116,7 +1116,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1031B" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000054689</external_id>
         <vendorCode>00000054689</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1155,7 +1155,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1014B" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000050552</external_id>
         <vendorCode>00000050552</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1210,7 +1210,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000061940" available="true">
-        <price>272</price>
+        <price>273</price>
         <external_id>00000061940</external_id>
         <vendorCode>00000061940</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1229,7 +1229,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1025B" available="true">
-        <price>272</price>
+        <price>273</price>
         <external_id>00000050553</external_id>
         <vendorCode>00000050553</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1284,7 +1284,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000054584" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000054584</external_id>
         <vendorCode>00000054584</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1339,7 +1339,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000061936" available="true">
-        <price>272</price>
+        <price>273</price>
         <external_id>00000061936</external_id>
         <vendorCode>00000061936</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1371,7 +1371,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="1021B" available="true">
-        <price>272</price>
+        <price>273</price>
         <external_id>00000050554</external_id>
         <vendorCode>00000050554</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1426,7 +1426,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1012B" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000050551</external_id>
         <vendorCode>00000050551</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1504,7 +1504,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1029B" available="true">
-        <price>272</price>
+        <price>273</price>
         <external_id>00000057935</external_id>
         <vendorCode>00000057935</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1579,7 +1579,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1008B" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000054606</external_id>
         <vendorCode>00000054606</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1634,7 +1634,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1009B" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000050541</external_id>
         <vendorCode>00000050541</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1708,7 +1708,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1011B" available="true">
-        <price>272</price>
+        <price>273</price>
         <external_id>00000050571</external_id>
         <vendorCode>00000050571</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1767,7 +1767,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="3050B" available="true">
-        <price>272</price>
+        <price>273</price>
         <external_id>00000057243</external_id>
         <vendorCode>00000057243</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1786,7 +1786,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1023B" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000054585</external_id>
         <vendorCode>00000054585</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1825,7 +1825,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1007B" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000050557</external_id>
         <vendorCode>00000050557</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1880,7 +1880,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1022B" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000053324</external_id>
         <vendorCode>00000053324</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1974,7 +1974,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1013B" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000050549</external_id>
         <vendorCode>00000050549</vendorCode>
         <currencyId>UAH</currencyId>
@@ -2084,7 +2084,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1006B" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000053315</external_id>
         <vendorCode>00000053315</vendorCode>
         <currencyId>UAH</currencyId>
@@ -2139,7 +2139,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1001B" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000050558</external_id>
         <vendorCode>00000050558</vendorCode>
         <currencyId>UAH</currencyId>
@@ -2269,7 +2269,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1018B" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000050556</external_id>
         <vendorCode>00000050556</vendorCode>
         <currencyId>UAH</currencyId>
@@ -2324,7 +2324,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1010B" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000050539</external_id>
         <vendorCode>00000050539</vendorCode>
         <currencyId>UAH</currencyId>
@@ -2398,7 +2398,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1016B" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000050544</external_id>
         <vendorCode>00000050544</vendorCode>
         <currencyId>UAH</currencyId>
@@ -2453,7 +2453,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1024B" available="true">
-        <price>268</price>
+        <price>269</price>
         <external_id>00000050545</external_id>
         <vendorCode>00000050545</vendorCode>
         <currencyId>UAH</currencyId>
@@ -2508,7 +2508,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="1020B" available="true">
-        <price>272</price>
+        <price>273</price>
         <external_id>00000061937</external_id>
         <vendorCode>00000061937</vendorCode>
         <currencyId>UAH</currencyId>
@@ -8202,19 +8202,6 @@
         <OFFERID_Rozetka />
         <param name="Материал">Шкіраметал</param>
         <param name="Гарантия">14 днів</param>
-      </offer>
-      <offer id="88941" available="true">
-        <price>0</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>6468</categoryId>
-        <picture>https://lsshop.1b.app/media/thumb/97/78/9778da60e059c146ef1d582ef86f6744.ipthumb400xprop.jpg</picture>
-        <picture>https://lsshop.1b.app/media/thumb/85/fa/85fa66f371052f55e0bf3864bef98a60.ipthumb400x400crop.jpg</picture>
-        <picture>https://lsshop.1b.app/media/thumb/be/13/be13dba0da3eb1ce1cac33334ca0d9ee.ipthumb400x400crop.jpg</picture>
-        <delivery>true</delivery>
-        <name><![CDATA[Чохол для ключів з карабіном (Шкіряний) без емблем]]></name>
-        <description><![CDATA[<p><strong>Характеристики</strong>:</p> <p>Розмір: 90х50х25 мм (З карабіном 140х50х25мм)</p> <p>Матеріал: Екошкіра</p> <p>Кільце для ключа всередині.</p> <p>---</p> <p>Одним із способів зберегти зовнішній вигляд авто ключа цілим - ключниці та чохли для ключів із якісної шкіри. Надійність чохла перевірена часом та гарантується десятками поколінь користувачів.</p> <p>Пам'ятайте, що надати вашому іміджу додаткову елегантність та неперевершений вишуканий стиль під силу навіть таким дрібницям.</p>]]></description>
-        <ID_Rozetka />
-        <OFFERID_Rozetka />
       </offer>
       <offer id="00000063962" available="true">
         <price>332</price>
