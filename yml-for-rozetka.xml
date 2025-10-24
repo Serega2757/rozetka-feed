@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 
-<yml_catalog date="2025-10-24 03:05:58">
+<yml_catalog date="2025-10-24 04:05:26">
   <shop>
     <name>LevelStore</name>
     <company>LevelStore</company>
@@ -7516,7 +7516,7 @@
         <vendorCode>00000063273</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>6471</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/ce/92/ce927dd235bce56d44109a6c497321c6.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Подарунковий набір CHERY 2в1 (фіксатор ременів, плетений брелок) 2]]></name>
         <description><![CDATA[В комплект входит: заглушки 2шт+ брелок 1шт +Подарочная упаковка! Материал заглушки и брелка:высококачественная полированная сталь, эко-кожа. Тип заглушки: универсальный, подходит ко всем замкам ремней безопасности современных автомобилей.]]></description>
@@ -9284,7 +9284,7 @@
         <vendorCode>00000070557</vendorCode>
         <currencyId>UAH</currencyId>
         <categoryId>6468</categoryId>
-        <picture />
+        <picture>https://lsshop.1b.app/media/thumb/36/dd/36dd8dbd19a5329235a111896cde43ab.ipthumb400xprop.jpg</picture>
         <delivery>true</delivery>
         <name><![CDATA[Чохол для ключів з карабіном Suzuki (Шкіра)]]></name>
         <description><![CDATA[<p><strong>Характеристики</strong>:</p><p>Розмір: 90х50х25 мм (З карабіном 140х50х25мм)</p><p>Матеріал: Шкіра</p><p>Кільце для ключа всередині.</p><p>---</p><p>Одним із способів зберегти зовнішній вигляд авто ключа цілим - ключниці та чохли для ключів із якісної шкіри. Надійність чохла перевірена часом та гарантується десятками поколінь користувачів.</p><p>Пам'ятайте, що надати вашому іміджу додаткову елегантність та неперевершений вишуканий стиль під силу навіть таким дрібницям.</p>]]></description>
