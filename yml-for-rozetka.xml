@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 
-<yml_catalog date="2025-10-25 05:04:38">
+<yml_catalog date="2025-10-25 12:05:04">
   <shop>
     <name>LevelStore</name>
     <company>LevelStore</company>
@@ -149,7 +149,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000050945" available="true">
-        <price>281</price>
+        <price>282</price>
         <external_id>00000050945</external_id>
         <vendorCode>00000050945</vendorCode>
         <currencyId>UAH</currencyId>
@@ -1747,7 +1747,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000057920" available="true">
-        <price>308</price>
+        <price>309</price>
         <external_id>00000057920</external_id>
         <vendorCode>00000057920</vendorCode>
         <currencyId>UAH</currencyId>
@@ -3051,7 +3051,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000069339" available="true">
-        <price>277</price>
+        <price>278</price>
         <external_id>00000069339</external_id>
         <vendorCode>00000069339</vendorCode>
         <currencyId>UAH</currencyId>
@@ -3081,7 +3081,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000069341" available="true">
-        <price>277</price>
+        <price>278</price>
         <external_id>00000069341</external_id>
         <vendorCode>00000069341</vendorCode>
         <currencyId>UAH</currencyId>
@@ -3416,7 +3416,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000069358" available="true">
-        <price>300</price>
+        <price>301</price>
         <external_id>00000069358</external_id>
         <vendorCode>00000069358</vendorCode>
         <currencyId>UAH</currencyId>
@@ -3431,7 +3431,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000069354" available="true">
-        <price>300</price>
+        <price>301</price>
         <external_id>00000069354</external_id>
         <vendorCode>00000069354</vendorCode>
         <currencyId>UAH</currencyId>
@@ -3446,7 +3446,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000069359" available="true">
-        <price>300</price>
+        <price>301</price>
         <external_id>00000069359</external_id>
         <vendorCode>00000069359</vendorCode>
         <currencyId>UAH</currencyId>
@@ -3461,7 +3461,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000069357" available="true">
-        <price>300</price>
+        <price>301</price>
         <external_id>00000069357</external_id>
         <vendorCode>00000069357</vendorCode>
         <currencyId>UAH</currencyId>
@@ -3476,7 +3476,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000069356" available="true">
-        <price>300</price>
+        <price>301</price>
         <external_id>00000069356</external_id>
         <vendorCode>00000069356</vendorCode>
         <currencyId>UAH</currencyId>
@@ -3491,7 +3491,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000069355" available="true">
-        <price>300</price>
+        <price>301</price>
         <external_id>00000069355</external_id>
         <vendorCode>00000069355</vendorCode>
         <currencyId>UAH</currencyId>
@@ -6565,7 +6565,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000070242" available="true">
-        <price>360</price>
+        <price>361</price>
         <external_id>00000070242</external_id>
         <vendorCode>00000070242</vendorCode>
         <currencyId>UAH</currencyId>
@@ -6593,7 +6593,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000069940" available="true">
-        <price>281</price>
+        <price>282</price>
         <external_id>00000069940</external_id>
         <vendorCode>00000069940</vendorCode>
         <currencyId>UAH</currencyId>
@@ -6606,7 +6606,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000070241" available="true">
-        <price>360</price>
+        <price>361</price>
         <external_id>00000070241</external_id>
         <vendorCode>00000070241</vendorCode>
         <currencyId>UAH</currencyId>
@@ -6619,7 +6619,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000069938" available="true">
-        <price>360</price>
+        <price>361</price>
         <external_id>00000069938</external_id>
         <vendorCode>00000069938</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7455,7 +7455,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000058826" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000058826</external_id>
         <vendorCode>00000058826</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7470,7 +7470,7 @@
         <param name="Марка авто">Audi</param>
       </offer>
       <offer id="00000071264" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071264</external_id>
         <vendorCode>00000071264</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7483,7 +7483,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000058827" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000058827</external_id>
         <vendorCode>00000058827</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7498,7 +7498,7 @@
         <param name="Марка авто">BMW</param>
       </offer>
       <offer id="00000071265" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071265</external_id>
         <vendorCode>00000071265</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7511,7 +7511,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000063273" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000063273</external_id>
         <vendorCode>00000063273</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7524,7 +7524,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000058840" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000058840</external_id>
         <vendorCode>00000058840</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7539,7 +7539,7 @@
         <param name="Марка авто">Chevrolet</param>
       </offer>
       <offer id="00000071266" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071266</external_id>
         <vendorCode>00000071266</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7552,7 +7552,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071267" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071267</external_id>
         <vendorCode>00000071267</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7565,7 +7565,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000059062" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000059062</external_id>
         <vendorCode>00000059062</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7578,7 +7578,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071268" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071268</external_id>
         <vendorCode>00000071268</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7591,7 +7591,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000058839" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000058839</external_id>
         <vendorCode>00000058839</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7606,7 +7606,7 @@
         <param name="Марка авто">Ford</param>
       </offer>
       <offer id="00000071269" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071269</external_id>
         <vendorCode>00000071269</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7619,7 +7619,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000058837" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000058837</external_id>
         <vendorCode>00000058837</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7634,7 +7634,7 @@
         <param name="Марка авто">Geely</param>
       </offer>
       <offer id="00000058832" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000058832</external_id>
         <vendorCode>00000058832</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7649,7 +7649,7 @@
         <param name="Марка авто">Honda</param>
       </offer>
       <offer id="00000071270" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071270</external_id>
         <vendorCode>00000071270</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7662,7 +7662,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000058836" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000058836</external_id>
         <vendorCode>00000058836</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7677,7 +7677,7 @@
         <param name="Марка авто">Hyundai</param>
       </offer>
       <offer id="00000071271" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071271</external_id>
         <vendorCode>00000071271</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7690,7 +7690,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071272" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071272</external_id>
         <vendorCode>00000071272</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7718,7 +7718,7 @@
         <param name="Марка авто">Kia</param>
       </offer>
       <offer id="00000063275" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000063275</external_id>
         <vendorCode>00000063275</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7731,7 +7731,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071273" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071273</external_id>
         <vendorCode>00000071273</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7744,7 +7744,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071274" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071274</external_id>
         <vendorCode>00000071274</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7757,7 +7757,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000058830" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000058830</external_id>
         <vendorCode>00000058830</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7772,7 +7772,7 @@
         <param name="Марка авто">Lexus</param>
       </offer>
       <offer id="00000071275" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071275</external_id>
         <vendorCode>00000071275</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7785,7 +7785,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071276" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071276</external_id>
         <vendorCode>00000071276</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7798,7 +7798,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000058833" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000058833</external_id>
         <vendorCode>00000058833</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7813,7 +7813,7 @@
         <param name="Марка авто">Mazda</param>
       </offer>
       <offer id="00000071277" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071277</external_id>
         <vendorCode>00000071277</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7826,7 +7826,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000058828" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000058828</external_id>
         <vendorCode>00000058828</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7841,7 +7841,7 @@
         <param name="Марка авто">Mercedes</param>
       </offer>
       <offer id="00000071278" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071278</external_id>
         <vendorCode>00000071278</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7854,7 +7854,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000063276" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000063276</external_id>
         <vendorCode>00000063276</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7867,7 +7867,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000059059" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000059059</external_id>
         <vendorCode>00000059059</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7880,7 +7880,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071279" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071279</external_id>
         <vendorCode>00000071279</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7893,7 +7893,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000058829" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000058829</external_id>
         <vendorCode>00000058829</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7908,7 +7908,7 @@
         <param name="Марка авто">Nissan</param>
       </offer>
       <offer id="00000071280" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071280</external_id>
         <vendorCode>00000071280</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7921,7 +7921,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000059060" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000059060</external_id>
         <vendorCode>00000059060</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7934,7 +7934,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071281" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071281</external_id>
         <vendorCode>00000071281</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7947,7 +7947,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000063277" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000063277</external_id>
         <vendorCode>00000063277</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7960,7 +7960,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071282" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071282</external_id>
         <vendorCode>00000071282</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7973,7 +7973,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000063278" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000063278</external_id>
         <vendorCode>00000063278</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7986,7 +7986,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071283" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071283</external_id>
         <vendorCode>00000071283</vendorCode>
         <currencyId>UAH</currencyId>
@@ -7999,7 +7999,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000059061" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000059061</external_id>
         <vendorCode>00000059061</vendorCode>
         <currencyId>UAH</currencyId>
@@ -8012,7 +8012,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071284" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071284</external_id>
         <vendorCode>00000071284</vendorCode>
         <currencyId>UAH</currencyId>
@@ -8025,7 +8025,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000059170" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000059170</external_id>
         <vendorCode>00000059170</vendorCode>
         <currencyId>UAH</currencyId>
@@ -8038,7 +8038,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000058835" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000058835</external_id>
         <vendorCode>00000058835</vendorCode>
         <currencyId>UAH</currencyId>
@@ -8053,7 +8053,7 @@
         <param name="Марка авто">Skoda</param>
       </offer>
       <offer id="00000071285" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071285</external_id>
         <vendorCode>00000071285</vendorCode>
         <currencyId>UAH</currencyId>
@@ -8066,7 +8066,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000063279" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000063279</external_id>
         <vendorCode>00000063279</vendorCode>
         <currencyId>UAH</currencyId>
@@ -8079,7 +8079,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071286" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071286</external_id>
         <vendorCode>00000071286</vendorCode>
         <currencyId>UAH</currencyId>
@@ -8092,7 +8092,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000071287" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071287</external_id>
         <vendorCode>00000071287</vendorCode>
         <currencyId>UAH</currencyId>
@@ -8105,7 +8105,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000058831" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000058831</external_id>
         <vendorCode>00000058831</vendorCode>
         <currencyId>UAH</currencyId>
@@ -8121,7 +8121,7 @@
         <param name="Марка авто">Toyota</param>
       </offer>
       <offer id="00000071288" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071288</external_id>
         <vendorCode>00000071288</vendorCode>
         <currencyId>UAH</currencyId>
@@ -8134,7 +8134,7 @@
         <OFFERID_Rozetka />
       </offer>
       <offer id="00000058838" available="true">
-        <price>579</price>
+        <price>580</price>
         <external_id>00000058838</external_id>
         <vendorCode>00000058838</vendorCode>
         <currencyId>UAH</currencyId>
@@ -8149,7 +8149,7 @@
         <param name="Марка авто">Volkswagen</param>
       </offer>
       <offer id="00000071289" available="true">
-        <price>613</price>
+        <price>614</price>
         <external_id>00000071289</external_id>
         <vendorCode>00000071289</vendorCode>
         <currencyId>UAH</currencyId>
@@ -8202,19 +8202,6 @@
         <OFFERID_Rozetka />
         <param name="Материал">Шкіраметал</param>
         <param name="Гарантия">14 днів</param>
-      </offer>
-      <offer id="88941" available="true">
-        <price>0</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>6468</categoryId>
-        <picture>https://lsshop.1b.app/media/thumb/97/78/9778da60e059c146ef1d582ef86f6744.ipthumb400xprop.jpg</picture>
-        <picture>https://lsshop.1b.app/media/thumb/85/fa/85fa66f371052f55e0bf3864bef98a60.ipthumb400x400crop.jpg</picture>
-        <picture>https://lsshop.1b.app/media/thumb/be/13/be13dba0da3eb1ce1cac33334ca0d9ee.ipthumb400x400crop.jpg</picture>
-        <delivery>true</delivery>
-        <name><![CDATA[Чохол для ключів з карабіном (Шкіряний) без емблем]]></name>
-        <description><![CDATA[<p><strong>Характеристики</strong>:</p> <p>Розмір: 90х50х25 мм (З карабіном 140х50х25мм)</p> <p>Матеріал: Екошкіра</p> <p>Кільце для ключа всередині.</p> <p>---</p> <p>Одним із способів зберегти зовнішній вигляд авто ключа цілим - ключниці та чохли для ключів із якісної шкіри. Надійність чохла перевірена часом та гарантується десятками поколінь користувачів.</p> <p>Пам'ятайте, що надати вашому іміджу додаткову елегантність та неперевершений вишуканий стиль під силу навіть таким дрібницям.</p>]]></description>
-        <ID_Rozetka />
-        <OFFERID_Rozetka />
       </offer>
       <offer id="00000063962" available="true">
         <price>332</price>
@@ -8443,7 +8430,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000046099" available="true">
-        <price>337</price>
+        <price>338</price>
         <external_id>00000046099</external_id>
         <vendorCode>00000046099</vendorCode>
         <currencyId>UAH</currencyId>
@@ -8529,7 +8516,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000069305" available="true">
-        <price>341</price>
+        <price>342</price>
         <external_id>00000069305</external_id>
         <vendorCode>00000069305</vendorCode>
         <currencyId>UAH</currencyId>
@@ -8728,7 +8715,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000067472" available="true">
-        <price>333</price>
+        <price>334</price>
         <external_id>00000067472</external_id>
         <vendorCode>00000067472</vendorCode>
         <currencyId>UAH</currencyId>
@@ -8818,7 +8805,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000069304" available="true">
-        <price>341</price>
+        <price>342</price>
         <external_id>00000069304</external_id>
         <vendorCode>00000069304</vendorCode>
         <currencyId>UAH</currencyId>
@@ -8856,7 +8843,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000069897" available="true">
-        <price>333</price>
+        <price>334</price>
         <external_id>00000069897</external_id>
         <vendorCode>00000069897</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9227,7 +9214,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000069378" available="true">
-        <price>341</price>
+        <price>342</price>
         <external_id>00000069378</external_id>
         <vendorCode>00000069378</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9279,7 +9266,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000070557" available="true">
-        <price>333</price>
+        <price>334</price>
         <external_id>00000070557</external_id>
         <vendorCode>00000070557</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9334,7 +9321,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000069303" available="true">
-        <price>341</price>
+        <price>342</price>
         <external_id>00000069303</external_id>
         <vendorCode>00000069303</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9370,7 +9357,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000069306" available="true">
-        <price>341</price>
+        <price>342</price>
         <external_id>00000069306</external_id>
         <vendorCode>00000069306</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9422,7 +9409,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000070168" available="true">
-        <price>360</price>
+        <price>361</price>
         <external_id>00000070168</external_id>
         <vendorCode>00000070168</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9473,7 +9460,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000065022" available="true">
-        <price>328</price>
+        <price>329</price>
         <external_id>00000065022</external_id>
         <vendorCode>00000065022</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9508,7 +9495,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000070163" available="true">
-        <price>360</price>
+        <price>361</price>
         <external_id>00000070163</external_id>
         <vendorCode>00000070163</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9575,7 +9562,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000070167" available="true">
-        <price>360</price>
+        <price>361</price>
         <external_id>00000070167</external_id>
         <vendorCode>00000070167</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9608,7 +9595,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000070166" available="true">
-        <price>360</price>
+        <price>361</price>
         <external_id>00000070166</external_id>
         <vendorCode>00000070166</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9624,7 +9611,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="00000066683" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066683</external_id>
         <vendorCode>00000066683</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9640,7 +9627,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066684" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066684</external_id>
         <vendorCode>00000066684</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9656,7 +9643,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066685" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066685</external_id>
         <vendorCode>00000066685</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9672,7 +9659,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066686" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066686</external_id>
         <vendorCode>00000066686</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9703,7 +9690,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066681" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066681</external_id>
         <vendorCode>00000066681</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9735,7 +9722,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066682" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066682</external_id>
         <vendorCode>00000066682</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9799,7 +9786,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066734" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066734</external_id>
         <vendorCode>00000066734</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9815,7 +9802,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066735" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066735</external_id>
         <vendorCode>00000066735</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9831,7 +9818,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066731" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066731</external_id>
         <vendorCode>00000066731</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9863,7 +9850,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066733" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066733</external_id>
         <vendorCode>00000066733</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9879,7 +9866,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066732" available="true">
-        <price>499</price>
+        <price>500</price>
         <external_id>00000066732</external_id>
         <vendorCode>00000066732</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9895,7 +9882,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066736" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066736</external_id>
         <vendorCode>00000066736</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9927,7 +9914,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066737" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066737</external_id>
         <vendorCode>00000066737</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9943,7 +9930,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066750" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066750</external_id>
         <vendorCode>00000066750</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9959,7 +9946,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066744" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066744</external_id>
         <vendorCode>00000066744</vendorCode>
         <currencyId>UAH</currencyId>
@@ -9991,7 +9978,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066739" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066739</external_id>
         <vendorCode>00000066739</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10023,7 +10010,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066740" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066740</external_id>
         <vendorCode>00000066740</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10055,7 +10042,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066741" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066741</external_id>
         <vendorCode>00000066741</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10087,7 +10074,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066742" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066742</external_id>
         <vendorCode>00000066742</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10102,7 +10089,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066743" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066743</external_id>
         <vendorCode>00000066743</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10207,7 +10194,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066738" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066738</external_id>
         <vendorCode>00000066738</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10282,7 +10269,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066745" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066745</external_id>
         <vendorCode>00000066745</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10297,7 +10284,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066746" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066746</external_id>
         <vendorCode>00000066746</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10312,7 +10299,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066689" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066689</external_id>
         <vendorCode>00000066689</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10327,7 +10314,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066687" available="true">
-        <price>499</price>
+        <price>500</price>
         <external_id>00000066687</external_id>
         <vendorCode>00000066687</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10342,7 +10329,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066688" available="true">
-        <price>499</price>
+        <price>500</price>
         <external_id>00000066688</external_id>
         <vendorCode>00000066688</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10357,7 +10344,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066690" available="true">
-        <price>499</price>
+        <price>500</price>
         <external_id>00000066690</external_id>
         <vendorCode>00000066690</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10402,7 +10389,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066678" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066678</external_id>
         <vendorCode>00000066678</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10417,7 +10404,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066679" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066679</external_id>
         <vendorCode>00000066679</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10432,7 +10419,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066680" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066680</external_id>
         <vendorCode>00000066680</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10447,7 +10434,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066747" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066747</external_id>
         <vendorCode>00000066747</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10492,7 +10479,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066748" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066748</external_id>
         <vendorCode>00000066748</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10627,7 +10614,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066677" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066677</external_id>
         <vendorCode>00000066677</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10642,7 +10629,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066749" available="true">
-        <price>499</price>
+        <price>500</price>
         <external_id>00000066749</external_id>
         <vendorCode>00000066749</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10657,7 +10644,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066673" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066673</external_id>
         <vendorCode>00000066673</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10687,7 +10674,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066674" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066674</external_id>
         <vendorCode>00000066674</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10702,7 +10689,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066675" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066675</external_id>
         <vendorCode>00000066675</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10732,7 +10719,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066676" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066676</external_id>
         <vendorCode>00000066676</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10747,7 +10734,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066667" available="true">
-        <price>473</price>
+        <price>474</price>
         <external_id>00000066667</external_id>
         <vendorCode>00000066667</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10762,7 +10749,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066668" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066668</external_id>
         <vendorCode>00000066668</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10792,7 +10779,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066669" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066669</external_id>
         <vendorCode>00000066669</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10822,7 +10809,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066670" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066670</external_id>
         <vendorCode>00000066670</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10837,7 +10824,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066671" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066671</external_id>
         <vendorCode>00000066671</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10852,7 +10839,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000066672" available="true">
-        <price>446</price>
+        <price>447</price>
         <external_id>00000066672</external_id>
         <vendorCode>00000066672</vendorCode>
         <currencyId>UAH</currencyId>
@@ -10867,7 +10854,7 @@
         <param name="Гарантия">14 днів</param>
       </offer>
       <offer id="00000057423" available="true">
-        <price>392</price>
+        <price>393</price>
         <external_id>00000057423</external_id>
         <vendorCode>00000057423</vendorCode>
         <currencyId>UAH</currencyId>
